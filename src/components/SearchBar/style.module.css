@@ -1,0 +1,23 @@
+.searchIcon {
+    color: #B8B8B8;
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 13px;
+}
+
+.input {
+    border-radius: 30px;
+    height: 50px;
+    width: 90%;
+    padding-left: 70px;
+    margin-left: 60px;
+    /* margin-right: 0px; */
+    border-color: transparent;
+    box-shadow: 0 4px 4px rgba(0,0,0,0.25);
+}
+
+.input:focus {
+    /* box-sizing: border-box; */
+    outline: none;
+    border: 3px solid #0D6EFD;
+}

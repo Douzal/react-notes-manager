@@ -1,0 +1,25 @@
+.container {
+  cursor: pointer;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 300px;
+  width: 300px;
+  padding: 20px;
+  margin-top: 5px;
+}
+
+.title_row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cardHovered {
+  border: 1px solid blue;
+}
+
+.text_content {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 6;
+  -webkit-box-orient: vertical;
+}/*# sourceMappingURL=style.module.css.map */

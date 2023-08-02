@@ -1,0 +1,17 @@
+.container {
+  padding: 50px;
+  background-color: white;
+  border-radius: 22px;
+}
+
+.icon {
+  cursor: pointer;
+}
+
+.submitBtn {
+  text-align: right;
+}
+
+.title_input_container {
+  max-width: 300px;
+}/*# sourceMappingURL=style.module.css.map */
